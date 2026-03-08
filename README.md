@@ -6,7 +6,6 @@
 🎓 **CSE Student at CHARUSAT University**  
 💻 Passionate about **Artificial Intelligence** and **Programming**  
 🌱 Currently learning **C language**  
-🚀 Dreaming to work at **Google** one day!
 
 ---
 
@@ -18,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Python (learning soon!)  
+- **Languages:** C, Python,html,css,js  
 - **Interests:** Artificial Intelligence, Problem Solving, Programming Logic  
 
 ---
